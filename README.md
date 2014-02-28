@@ -4,8 +4,8 @@ march_madness
 Data sources
 
 * http://www.reddit.com/r/MachineLearning/comments/1a444o/machine_march_madness_2013/
-    * http://www.sports-reference.com/cbb/
-    * 
+* http://www.sports-reference.com/cbb/
+
 
 
 Models
