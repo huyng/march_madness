@@ -5,6 +5,7 @@ Data sources
 
 * http://www.reddit.com/r/MachineLearning/comments/1a444o/machine_march_madness_2013/
 * http://www.sports-reference.com/cbb/
+* https://github.com/dtarlow/Machine-March-Madness/tree/master/data
 
 
 
